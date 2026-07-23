@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:8E7CFF,100:00D9FF&height=200&section=header&text=Guilherme%20Rodrigues&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Founder%20%7C%20Linux%20%26%20DevOps&descAlignY=56&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:8E7CFF,100:00D9FF&height=200&section=header&text=Guilherme%20Rodrigues&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20%E2%80%A2%20Linux%20e%20DevOps&descAlignY=56&descSize=17" width="100%"/>
 
 <a href="https://github.com/guilhermeRrodrigues">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=800&color=8E7CFF&center=true&vCenter=true&width=680&lines=Founder+%40+ADJ+Tech;Criador+do+cwords.fun;Full+Stack+%E2%80%A2+Next+%E2%80%A2+Nest+%E2%80%A2+Python+%E2%80%A2+Docker;Especialista+em+Linux+e+Infraestrutura;Medalha+de+Ouro+OBR+%E2%80%A2+Nacional+OBI" alt="Typing SVG" />
@@ -113,28 +113,11 @@ Desenvolvimento web, software sob medida, consultoria de TI, DevOps e cibersegur
 
 ## 💻 Open Source
 
-<div align="center">
-
-<a href="https://github.com/guilhermeRrodrigues/clipgen">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermeRrodrigues&repo=clipgen&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E7CFF&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/guilhermeRrodrigues/playia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermeRrodrigues&repo=playia&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E7CFF&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/guilhermeRrodrigues/secret-browser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermeRrodrigues&repo=secret-browser&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E7CFF&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/guilhermeRrodrigues/OBR-TechTitans2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermeRrodrigues&repo=OBR-TechTitans2025&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E7CFF&icon_color=00D9FF" />
-</a>
-
-</div>
-
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### ✂️ clipgen
+### ✂️ [clipgen](https://github.com/guilhermeRrodrigues/clipgen)
 **Do link ao post em um clique.**
 
 Cole a URL de um vídeo do YouTube: a IA identifica os melhores momentos, corta, edita e legenda automaticamente — pronto pra publicar em todas as redes.
@@ -144,7 +127,7 @@ Cole a URL de um vídeo do YouTube: a IA identifica os melhores momentos, corta,
 </td>
 <td width="33%" valign="top">
 
-### 🎮 playIA
+### 🎮 [playIA](https://github.com/guilhermeRrodrigues/playia)
 **IA que aprende te vendo jogar.**
 
 Observa a gameplay, aprende os padrões e passa a jogar sozinha — melhorando a cada partida.
@@ -154,7 +137,7 @@ Observa a gameplay, aprende os padrões e passa a jogar sozinha — melhorando a
 </td>
 <td width="33%" valign="top">
 
-### 🕵️ secret-browser
+### 🕵️ [secret-browser](https://github.com/guilhermeRrodrigues/secret-browser)
 **Navegador focado em privacidade.**
 
 Navegação sem rastreamento, com botão de saída rápida para fechar a aplicação instantaneamente.
@@ -164,39 +147,6 @@ Navegação sem rastreamento, com botão de saída rápida para fechar a aplica�
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guilhermeRrodrigues&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=issues&bg_color=0D1117&title_color=8E7CFF&icon_color=00D9FF&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeRrodrigues&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E7CFF&text_color=c9d1d9" />
-
-<br/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=guilhermeRrodrigues&theme=tokyonight&hide_border=true&background=0D1117&ring=8E7CFF&fire=00D9FF&currStreakLabel=8E7CFF" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeRrodrigues&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8E7CFF&line=00D9FF&point=ffffff&area=true" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeRrodrigues/guilhermeRrodrigues/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeRrodrigues/guilhermeRrodrigues/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/guilhermeRrodrigues/guilhermeRrodrigues/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
