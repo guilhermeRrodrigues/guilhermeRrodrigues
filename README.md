@@ -39,24 +39,12 @@ filosofia: "Linguagem é sintaxe. O que importa é resolver o problema."
 
 ## 🏆 Conquistas
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/MEDALHA_DE_OURO-OBR_Modalidade_Te%C3%B3rica-FFD700?style=for-the-badge&labelColor=1a1a2e&logo=trophy&logoColor=FFD700" />
-<br/>
-<img src="https://img.shields.io/badge/3x_Participante-OBR_Art%C3%ADstica-6C5CE7?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Vencedor_Regional-OBI-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Fase_Nacional-OBI-009C3B?style=for-the-badge&labelColor=1a1a2e" />
-
-</div>
-
-<br/>
-
 | Competição | Resultado |
 |:---|:---|
 | **OBR** — Olimpíada Brasileira de Robótica, Modalidade Teórica | 🥇 **Medalha de Ouro** |
 | **OBR** — Modalidade Artística | **3x participante** |
 | **OBI** — Olimpíada Brasileira de Informática (Programação) | 🏆 **Vencedor — fase Regional** |
-| **OBI** — Fase Nacional | 🇧🇷 **Classificado** |
+| **OBI** — Fase Nacional | **Classificado** |
 
 > 💡 O código do projeto de robótica está aberto em [**OBR-TechTitans2025**](https://github.com/guilhermeRrodrigues/OBR-TechTitans2025).
 
