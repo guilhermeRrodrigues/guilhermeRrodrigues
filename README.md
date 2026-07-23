@@ -10,7 +10,7 @@
 
 <a href="https://cwords.fun"><img src="https://img.shields.io/badge/cwords.fun-00D9FF?style=for-the-badge&logo=steam&logoColor=white" /></a>
 <a href="https://adjtech.com.br"><img src="https://img.shields.io/badge/ADJ_Tech-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:contato@adjtech.com.br"><img src="https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:joao.citta2012@gmail.com"><img src="https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
