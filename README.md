@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://cwords.fun"><img src="https://img.shields.io/badge/cwords.fun-00D9FF?style=for-the-badge&logo=gamejolt&logoColor=white" /></a>
+<a href="https://cwords.fun"><img src="https://img.shields.io/badge/cwords.fun-00D9FF?style=for-the-badge&logo=steam&logoColor=white" /></a>
 <a href="https://adjtech.com.br"><img src="https://img.shields.io/badge/ADJ_Tech-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:contato@adjtech.com.br"><img src="https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -41,9 +41,9 @@ filosofia: "Linguagem é sintaxe. O que importa é resolver o problema."
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🥇_MEDALHA_DE_OURO-OBR_Modalidade_Teórica-FFD700?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/MEDALHA_DE_OURO-OBR_Modalidade_Te%C3%B3rica-FFD700?style=for-the-badge&labelColor=1a1a2e&logo=trophy&logoColor=FFD700" />
 <br/>
-<img src="https://img.shields.io/badge/3x_Participante-OBR_Artística-6C5CE7?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/3x_Participante-OBR_Art%C3%ADstica-6C5CE7?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Vencedor_Regional-OBI-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Fase_Nacional-OBI-009C3B?style=for-the-badge&labelColor=1a1a2e" />
 
@@ -204,8 +204,8 @@ Navegação sem rastreamento, com botão de saída rápida para fechar a aplica�
 
 ### 💬 Vamos construir algo?
 
-<a href="https://adjtech.com.br"><img src="https://img.shields.io/badge/Fale_comigo-6C5CE7?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-<a href="https://cwords.fun"><img src="https://img.shields.io/badge/Jogue_cwords-00D9FF?style=for-the-badge&logo=gamejolt&logoColor=white" /></a>
+<a href="https://adjtech.com.br"><img src="https://img.shields.io/badge/Fale_comigo-6C5CE7?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+<a href="https://cwords.fun"><img src="https://img.shields.io/badge/Jogue_cwords-00D9FF?style=for-the-badge&logo=steam&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:8E7CFF,100:6C5CE7&height=120&section=footer" width="100%"/>
 
